@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hubungi | Portfolio Iqmal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">💻 Portfolio Iqmal</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Utama</a></li>
+                <li><a href="about.html">Mengenai</a></li>
+                <li><a href="blog.html">Projek & Blog</a></li>
+                <li><a href="contact.html" class="active">Hubungi</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="page-container">
+        <section class="contact-box">
+            <h2>Mari Berhubung!</h2>
+            <p>Saya terbuka untuk sebarang peluang latihan industri (Internship) bermula September 2026. Sila hubungi saya melalui pautan di bawah atau isi borang:</p>
+            
+            <div style="margin-bottom: 20px; font-weight: bold; text-align: center;">
+                <p>📞 017-9312814</p>
+                <p>📧 iqmalsanusi2002@gmail.com</p>
+                <p>📍 Pasir Puteh, Kelantan</p>
+            </div>
+
+            <form onsubmit="alert('Terima kasih! Mesej anda telah dihantar.'); return false;">
+                <label for="nama">Nama Anda:</label>
+                <input type="text" id="nama" required>
+
+                <label for="emel">E-mel Anda:</label>
+                <input type="email" id="emel" required>
+
+                <label for="mesej">Mesej:</label>
+                <textarea id="mesej" rows="5" required></textarea>
+
+                <button type="submit" class="btn">Hantar Mesej</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Muhammad Iqmal Hakim. Hak Cipta Terpelihara.</p>
+    </footer>
+
+</body>
+</html>
