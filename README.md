@@ -55,7 +55,10 @@ A Virtual Reality educational application developed using Unity and Google Cardb
 
 ###Frontend Aspect Ratio & Resolution Calculator
 To calculate real-time display dimensions and preview aspect ratio constraints for responsive UI/UX development.
+
 <img width="750" height="443" alt="Screenshot 2026-06-08 215219" src="https://github.com/user-attachments/assets/b81e6928-9c52-4cd7-85a9-cbb8da6069c7" />
+
+
 
 ### Other Academic Projects
 
