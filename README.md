@@ -1,4 +1,4 @@
-<img width="750" height="443" alt="image" src="https://github.com/user-attachments/assets/08cbdf4a-b6fe-4146-8f8c-e7d8aa643438" /><img width="750" height="443" alt="image" src="https://github.com/user-attachments/assets/d8c31adb-e3fe-40d5-9e84-e73ac71ce000" /># Iqmal Developer Portfolio Website
+# Iqmal Developer Portfolio Website
 
 ## Overview
 
