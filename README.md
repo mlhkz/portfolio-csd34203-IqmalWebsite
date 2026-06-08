@@ -1,53 +1,120 @@
+<img width="750" height="443" alt="image" src="https://github.com/user-attachments/assets/08cbdf4a-b6fe-4146-8f8c-e7d8aa643438" /><img width="750" height="443" alt="image" src="https://github.com/user-attachments/assets/d8c31adb-e3fe-40d5-9e84-e73ac71ce000" /># Iqmal Developer Portfolio Website
 
----
+## Overview
 
-# Academic Portfolio & System Development Log
+An interactive and responsive personal portfolio website developed for **CSD 34203 – Special Topics in Software Development**. This portfolio showcases my academic background, technical skills, software development projects, and achievements throughout my studies at Universiti Sultan Zainal Abidin (UniSZA).
 
-**Author:** Muhammad Iqmal Hakim Bin Mohd Sanusi
+## Live Demo
+
+🌐 Website Portfolio:
+https://mlhkz.github.io/portfolio-csd34203-IqmalWebsite/
+
+## About Me
+
+**Developer Name:** Muhammad Iqmal Hakim Bin Mohd Sanusi
 
 **Institution:** Universiti Sultan Zainal Abidin (UniSZA)
 
-**Program:** Bachelor of Information Technology (Informatics Media)
+**Programme:** Bachelor of Information Technology (Informatics Media)
 
-**Academic Standing:** Cumulative Grade Point Average (CGPA): 3.68
+**Academic Status:** Undergraduate Student
 
----
+**Interests:** Web Development, Virtual Reality (VR), Augmented Reality (AR), Software Engineering, UI/UX Design, and Emerging Technologies.
 
-## 1. Core Technical Competencies & Implementation Features
+## Features
 
-### 1.1 Responsive Web Architecture (RWA)
+### Responsive Design
 
-The user interface (UI) leverages fluid grid systems, flexible images, and CSS3 media queries to ensure cross-platform compatibility. The layout dynamically adapts across heterogeneous display viewports, including desktop, tablet, and mobile environments, maximizing user experience (UX) stability and visual hierarchy.
+* Fully responsive layout compatible with desktop, tablet, and mobile devices.
+* Optimized user experience across multiple screen sizes.
 
-### 1.2 Secure Data Ingestion via External API Integration
+### Professional Portfolio Showcase
 
-To facilitate asynchronous user communication without server-side processing overhead, the application integrates Web3Forms as a secure, external Application Programming Interface (API) gateway. This implementation handles data transmission using end-to-end encrypted form protocols, mitigating common client-side vulnerabilities.
+* Personal profile and academic information.
+* Technical skills and development experience.
+* Project portfolio with detailed descriptions.
 
-### 1.3 Scholastic & Applied Informatics Showcase
+### Interactive User Interface
 
-The repository serves as an empirical record of academic excellence—notably documenting consecutive Dean's List commendations—alongside a rigorous portfolio of applied informatics systems. These projects cross-examine software engineering principles and interactive media systems:
+* Modern and clean UI design.
+* Smooth navigation between sections.
+* User-friendly layout and accessibility features.
 
-* **Clinic Information System:** An enterprise-focused relational database system optimized for healthcare workflows.
-* **Abe Pizza Online Ordering Web Application:** A full-stack e-commerce simulation evaluating state management and transactional user flows.
-* **Astro VR Planet:** An immersive, three-dimensional virtual reality (VR) pedagogical environment exploring interactive media design and asset optimization.
+### Contact Section
 
----
+* Direct communication channel for collaboration opportunities and professional networking.
 
-## 2. Directory Architecture & Artifact Mapping
+## Projects Highlighted
 
-The system design follows a modular, decoupled file structure to optimize maintainability, search engine indexing (SEO), and separation of concerns:
+### Astro VR Planet (Final Year Project)
 
-```
-├── index.html     # Primary Landing Page & Professional Abstract
-├── about.html     # Academic Curricula & Interactive Taxonomy of Technical Skills
-├── blog.html      # Empirical Case Studies & System Development Lifecycles (SDLC)
-├── contact.html   # Telemetry & Formal Industry Communication Nodes
-└── style.css      # Centralized Cascading Style Sheet & Responsive Breakpoint Definitions
+A Virtual Reality educational application developed using Unity and Google Cardboard that allows users to explore planets within the solar system through immersive VR experiences.
 
-```
+###Astro VR Theme: Space Weight & Age Calculator
+ To dynamically compute physical mass and orbital age metrics across planetary environments using client-side DOM manipulation.
 
-* `index.html`: Establishes the professional baseline, presenting a high-level executive summary of qualifications and core domain expertise.
-* `about.html`: Provides an granular breakdown of academic milestones, alongside a classified schema of technical skills represented via interactive user-interface tags.
-* `blog.html`: Documents the iterative engineering lifecycles of the author's primary systems, utilizing a formal case-study methodology to detail challenges, algorithmic solutions, and deployment phases.
-* `contact.html`: Houses the standardized communications portal, utilizing validated input structures to secure inbound professional networking and recruitment inquiries.
-* `style.css`: Houses the global design tokens, typographic scales, and deterministic media query thresholds that dictate the application's responsive behavior.
+###Frontend Aspect Ratio & Resolution Calculator
+To calculate real-time display dimensions and preview aspect ratio constraints for responsive UI/UX development.
+<img width="750" height="443" alt="Screenshot 2026-06-08 215219" src="https://github.com/user-attachments/assets/b81e6928-9c52-4cd7-85a9-cbb8da6069c7" />
+
+### Other Academic Projects
+
+* Web Development Projects
+* Database Management Applications
+* Multimedia and Interactive Media Projects
+* Software Development Coursework Projects
+
+## Technologies Used
+
+### Front-End Development
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Back-End Development
+
+* JSP
+* Java
+
+### Development Tools
+
+* Visual Studio Code
+* Unity Engine
+* Vuforia Engine
+* Git & GitHub
+
+### Database Technologies
+
+* MySQL
+
+### Other Technologies
+
+* FHIR (Fast Healthcare Interoperability Resources)
+* Google Cardboard VR
+* Augmented Reality Technologies
+
+## How to Run the Project
+
+### Option 1: Online Access (Recommended)
+
+Open the deployed website directly:
+
+https://mlhkz.github.io/portfolio-csd34203-IqmalWebsite/
+
+### Option 2: Local Execution
+
+1. Download or clone the repository.
+2. Extract the project files if downloaded as ZIP.
+3. Open the project folder.
+4. Launch the `index.html` file using any modern web browser.
+
+## Author
+
+**Muhammad Iqmal Hakim Bin Mohd Sanusi**
+
+Universiti Sultan Zainal Abidin (UniSZA)
+
+Bachelor of Information Technology (Informatics Media)
+
+"Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston Churchill
