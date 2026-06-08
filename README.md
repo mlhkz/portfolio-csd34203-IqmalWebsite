@@ -50,8 +50,12 @@ https://mlhkz.github.io/portfolio-csd34203-IqmalWebsite/
 
 A Virtual Reality educational application developed using Unity and Google Cardboard that allows users to explore planets within the solar system through immersive VR experiences.
 
+<img width="814" height="320" alt="image" src="https://github.com/user-attachments/assets/e9ffeffd-f568-4e7a-9df7-9bbb3bb0031b" />
+
 ###Astro VR Theme: Space Weight & Age Calculator
  To dynamically compute physical mass and orbital age metrics across planetary environments using client-side DOM manipulation.
+ 
+<img width="792" height="503" alt="image" src="https://github.com/user-attachments/assets/df73d497-8c50-4b41-87fd-f6413d6df191" />
 
 ###Frontend Aspect Ratio & Resolution Calculator
 To calculate real-time display dimensions and preview aspect ratio constraints for responsive UI/UX development.
